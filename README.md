@@ -25,4 +25,4 @@ Technologies I'm exploring right now
 
 <br>
 
-<p>📫 Get in touch: <a href="rohatergun06@gmail.com">Gmail</a></p>
+<p>📫 Get in touch: <a href="mailto:rohatergun06@gmail.com">Gmail</a></p>
