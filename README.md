@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-Im Rohat I like to work on backend systems and web applications.
+I'm a Computer Science student passionate about backend development, with a focus on building web applications. 
+
+I'm currently expanding my skills in DevOps, system design and spec-driven development.
 
 ### 🧰 Languages and Tools I use 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
