@@ -2,7 +2,7 @@
 
 I'm a Computer Science student passionate about backend development, with a focus on building web applications. 
 
-I'm currently expanding my skills in DevOps, system design and spec-driven development.
+I'm currently expanding my skills in DevOps, AWS and system design.
 
 ### 🧰 Languages and Tools I use 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
