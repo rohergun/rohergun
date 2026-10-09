@@ -1,9 +1,10 @@
 ## Hi There! 👨‍💻
 
-I'm a computer science student interested in developing back-end applications, and I'm curious about designing systems.
+## 🚀 About Me
+I'm a computer science student with strong focus on developing back-end applications.
 
-Currently, I'm learning more about DevOps and aws.
-
+## 📚 Technologies I'm exploring
+Currently, I'm learning more about DevOps, AWS and Spring Cloud.
 
 ### 📧 Reach Me On
 
