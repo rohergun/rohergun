@@ -1,7 +1,9 @@
 ## Hi There! 👨‍💻
 
 ## 🚀 About Me
-I'm a computer science student with strong focus on developing back-end applications.
+I'm Rohat, I interested in Tech in general right now I'm focusing on backend-systems, databases and DevOps.
+
+🧰 Java | Spring | NodeJS | Postgres | Docker | CI/CD
 
 ## 📚 Technologies I'm exploring
 Currently, I'm learning more about DevOps, AWS and Spring Cloud.
