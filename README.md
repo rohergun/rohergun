@@ -6,7 +6,7 @@ I'm Rohat, I interested in Tech in general right now I'm focusing on backend-sys
 🧰 Java | Spring | NodeJS | Postgres | Docker | CI/CD
 
 ## 📚 Technologies I'm exploring
-Currently, I'm learning more about DevOps, AWS and Spring Cloud.
+Currently, I'm learning more about DevOps, AWS and NestJS.
 
 ### 📧 Reach Me On
 
