@@ -1,12 +1,12 @@
-## Hi There! 👨‍💻
+## Hi There!
 
-## 🚀 About Me
-I'm Rohat, I interested in Tech in general right now I'm focusing on backend-systems, databases and DevOps.
+### About Me
+I'm Rohat a CS student who mostly builds web apps and command-line tools. 
 
 🧰 Java | Spring | NodeJS | Postgres | Docker | CI/CD
 
-## 📚 Technologies I'm exploring
-Currently, I'm learning more about DevOps, AWS and NestJS.
+### Technologies I'm exploring
+Currently, I'm learning more about AWS and NestJS.
 
 ### 📧 Reach Me On
 
